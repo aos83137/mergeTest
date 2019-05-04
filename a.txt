@@ -1,8 +1,1 @@
-a1
-b1
-a1
-jang
-jeon
-test
-test
-
+a
