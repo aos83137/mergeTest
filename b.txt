@@ -1,14 +1,7 @@
-b14
-b2
-b1
-<<<<<<< HEAD
-yong
+test
+test
+test
+test
+reset
+WWW
 
-bbbbbbbbbbb
-=======
-test
-test
-test
-test
->>>>>>> test
-asdasdasd
